@@ -9,7 +9,7 @@
 
 # 📚 Achievements
 * Participated in AI Agents Hack with LabLab and MindsDB at **[Lablab](https://lablab.ai/u/@Shaharyar/cm17rxh67000qof2jvljg224k)**
-* Participated in Build Your AI Startup #2: Edge Runners at **[Lablab](https://lablab.ai/u/@Shaharyar/cm1j30fye0030sqp2v4oxjo8o)**
+* Finalist in Build Your AI Startup #2: Edge Runners hackathon at **[Lablab](https://lablab.ai/u/@Shaharyar/cm1j30fye0030sqp2v4oxjo8o)**
 * Solved 100+ Data Structures & Algorithms problems at **[LeetCode](https://leetcode.com/u/M_Shaharyar/)**
 * Ranked 6,717th out of 22,494 in Round 1 of Meta Hacker Cup 2024, competing globally. **[Metahacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/5682615305096313?source=facebook)**
 
