@@ -1,9 +1,10 @@
-<h1 align="center">Hi there 👋, I'm Muhammad Shaharyar</h1>
+<h1 align="center">Hi there 👋, I'm Muhammad Shaharyar</h1> 
 <h3 align="center">Software Engineer || Python/DSA Trainer at @iCodeGuru || AI Enthusiast || Leetcode 100+ || Participated in Meta Hacker Cup 2024  </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=M-Shaharyar&label=Profile%20views&color=0e75b6&style=flat" alt="M-Shaharyar" /> </p>
 
-# About me
+# About me [![Hits](https://hits.sh/github.com/M-Shaharyar.svg?label=PROFILE%20VIEWS&extraCount=0&color=00BFFF)](https://hits.sh/github.com/M-Shaharyar/)
+
+ 
 <p>Tech enthusiast with a background in computer science, passionate about mentoring and guiding students in coding and problem-solving. I enjoy building AI tools, and web apps, and tackling new challenges. Recent projects include developing educational AI tools, optimizing web apps, and contributing to hackathons like NASA Space Apps and Meta Hacker Cup.</p>
 
 
