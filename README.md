@@ -20,6 +20,7 @@
 * Programming:  Python, C++, SQL
 * Software Development:  HTML, CSS
 * Version Control:  Git, Github
+* Data Analysis: Numpy, Pandas, Matplotlib and Seaborn
 * Deep Learning:  Pytorch, Numpy, and Pandas
 
 # ⚙️ GitHub Analytics
