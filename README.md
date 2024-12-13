@@ -21,6 +21,17 @@
 * Volunteered with the C2ITU Advisory Team, mentoring junior CS students and hosting a career guidance webinar at the university.
 * Taught math assessment skills and guided students through the MIT Emerging Talent Program application process.
 
+# 🏅 **International Hackathons and Coding Competitions**  
+
+- **Next2 Edge Runners Hackathon**: Ranked top 6/126 teams with *SynthAI*, an AI-powered SaaS for text, code, and media generation (*Next.js, OpenAI, Stripe*).  
+- **AI Agents Hackathon**: Built *LearnAnything*, an AI tool for personalized learning using flashcards and web content retrieval (*Streamlit, Python, AIML API*).  
+- **NASA Space Apps Challenge**: Created an interactive app visualizing global warming data with maps and LLM-based insights (*Streamlit, Plotly, Gemini API*).  
+- **Meta Hacker Cup**: Achieved global ranks of 1,222/13,261 (Practice Round) and 6,701/22,494 (Round 1).  
+- **Calico Informatics Coding Competition**: Ranked 321st globally, solving 4 problems in 3 hours.  
+- **Advent of Code**: Enhancing problem-solving and creativity by participating in daily challenges.  
+
+
+
 # 💻 Technical Skills
 * Programming:  Python, C++, SQL
 * Software Development:  HTML, CSS
