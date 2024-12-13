@@ -21,11 +21,6 @@
 * Volunteered with the C2ITU Advisory Team, mentoring junior CS students and hosting a career guidance webinar at the university.
 * Taught math assessment skills and guided students through the MIT Emerging Talent Program application process.
 
-
-ChatGPT said:
-ChatGPT
-Taught math assessment skills and guided students through the application process for the MIT Emerging Talent Program.
-
 # 💻 Technical Skills
 * Programming:  Python, C++, SQL
 * Software Development:  HTML, CSS
