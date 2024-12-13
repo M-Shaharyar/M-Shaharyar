@@ -1,21 +1,30 @@
 <h1 align="center">Hi there 👋, I'm Muhammad Shaharyar</h1> 
-<h3 align="center">Software Engineer || Python/DSA Trainer at @iCodeGuru || AI Enthusiast || Leetcode 130+ || Participated in Meta Hacker Cup 2024  </h3>
+<h3 align="center">Software Engineer || Python/DSA Trainer at @iCodeGuru || AI Enthusiast || Leetcode 140+ || Participated in Meta Hacker Cup 2024 || Competed in CALICO Informatics Coding Competition  </h3>
 
 
 # About me [![Hits](https://hits.sh/github.com/M-Shaharyar.svg?label=PROFILE%20VIEWS&extraCount=0&color=00BFFF)](https://hits.sh/github.com/M-Shaharyar/)
 
  
-<p>Tech enthusiast with a background in computer science, passionate about mentoring and guiding students in coding and problem-solving. I enjoy building AI tools, and web apps, and tackling new challenges. Recent projects include developing educational AI tools, optimizing web apps, and contributing to hackathons like NASA Space Apps and Meta Hacker Cup.</p>
+<p>Tech enthusiast with a background in computer science, passionate about mentoring and guiding students in coding and problem-solving. I enjoy building AI tools, and web apps, and tackling new challenges. Recent projects include developing educational AI tools, optimizing web apps, and contributing to hackathons like NASA Space Apps, Meta Hacker Cup and CALICO Informatics Coding Competition.</p>
 
 
 # 📚 Achievements
 * Participated in AI Agents Hack with LabLab and MindsDB at **[Lablab](https://lablab.ai/u/@Shaharyar/cm17rxh67000qof2jvljg224k)**
 * Finalist in Build Your AI Startup #2: Edge Runners hackathon at **[Lablab](https://lablab.ai/u/@Shaharyar/cm1j30fye0030sqp2v4oxjo8o)**
-* Solved 130+ Data Structures & Algorithms problems at **[LeetCode](https://leetcode.com/u/M_Shaharyar/)**
-* Ranked 6,717th out of 22,494 in Round 1 of Meta Hacker Cup 2024, competing globally. **[Metahacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/5682615305096313?source=facebook)**
+* Solved 140+ Data Structures & Algorithms problems at **[LeetCode](https://leetcode.com/u/M_Shaharyar/)**
+* Ranked 6,701th globally out of 22,494 in Round 1 of the 2024 Meta Hacker Cup **[Metahacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/5682615305096313?source=facebook)**
+* Secured rank 321 globally in the CALICO Coding Competition hosted by UC Berkeley **[CALICO Coding Competition](https://www.linkedin.com/posts/muhammad-shaharyar-sarwar_calicocompetition-informatics-codingcompetition-activity-7264121677263851521-hGdL?utm_source=share&utm_medium=member_desktop)**
 
-# 🤝Volunteer Experience
-<p>Coordinated a Data Structures and Algorithms course, offering valuable insights and support to students, including those from non-tech backgrounds. My teaching style was recognized for making complex concepts easier to understand, helping boost their confidence in coding.</p>
+# 🤝Volunteer and Teaching Experience
+* Taught DSA sessions and led a Python for Beginners course, guiding over 100 students to improve their problem-solving skills through LeetCode and gain practical experience.
+* Leading the 'Data Analysis for Absolute Beginners' course, equipping learners with essential data analysis skills.
+* Volunteered with the C2ITU Advisory Team, mentoring junior CS students and hosting a career guidance webinar at the university.
+* Taught math assessment skills and guided students through the MIT Emerging Talent Program application process.
+
+
+ChatGPT said:
+ChatGPT
+Taught math assessment skills and guided students through the application process for the MIT Emerging Talent Program.
 
 # 💻 Technical Skills
 * Programming:  Python, C++, SQL
