@@ -33,8 +33,8 @@
 
 
 # 💻 Technical Skills
-* Programming:  Python, C++, SQL
-* Software Development:  HTML, CSS
+* Programming:  Python, C++, SQL, C#
+* Software Development:  HTML, CSS, Unity
 * Version Control:  Git, Github
 * Data Analysis: Numpy, Pandas, Matplotlib and Seaborn
 * Deep Learning:  Pytorch
