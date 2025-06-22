@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Muhammad Shaharyar</h1> 
-<h3 align="center">Software Engineer || Python/DSA Trainer at @iCodeGuru || AI Enthusiast || Leetcode 140+ || Participated in Meta Hacker Cup 2024 || Competed in CALICO Informatics Coding Competition  </h3>
+<h3 align="center">Software Engineer || Python/DSA Trainer at @iCodeGuru || AI Enthusiast || Leetcode 170+ || Participated in Meta Hacker Cup 2024 || Competed in CALICO Informatics Coding Competition  </h3>
 
 
 # About me [![Hits](https://hits.sh/github.com/M-Shaharyar.svg?label=PROFILE%20VIEWS&extraCount=0&color=00BFFF)](https://hits.sh/github.com/M-Shaharyar/)
